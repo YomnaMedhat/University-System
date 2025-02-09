@@ -47,8 +47,7 @@ This C++ program implements a university management system that handles course r
 - Standard C++ libraries (iostream, vector, string, etc.)
 
 ## Authors
-- **Your Name** (Replace with your actual name)
-
-## License
-This project is open-source and available under the MIT License.
-
+- Yomna Medhat Saad
+- Rania Ossama Hassan
+- Mariam Hamada Mahmoud
+- Noran Maged Hassan
